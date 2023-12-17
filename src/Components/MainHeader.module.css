@@ -1,0 +1,26 @@
+.header ul{
+    height: 100%;
+    list-style: none;
+
+    align-item: center;
+    justify-content: center;
+}
+
+.header li {
+    margin: 0 1rem;
+    width: 5rem;
+        
+    }
+
+    .header a {
+        color:azure;
+        text-decoration: none;
+    }
+
+    .header a:hover,
+    .header a:active,
+        .header a:active {
+        color: bisque;
+        padding-bottom: 0.25rem;
+        border-bottom: 4px solid transparent;
+    }
