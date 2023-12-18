@@ -9,10 +9,10 @@ const Products = () => {
           <Link to="/product/p1"> A book</Link>
         </li>
         <li>
-          <Link to="/product/p2">A carpet</Link>
+          <Link to="/products/p2">A carpet</Link>
         </li>
         <li>
-          <Link to="/product/p3">An online Course</Link>
+          <Link to="/products/p3">An online Course</Link>
         </li>
       </ul>
     </section>
